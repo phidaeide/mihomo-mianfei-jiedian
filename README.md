@@ -6,9 +6,9 @@
 
 | 项目 | 内容 |
 | --- | --- |
-| 更新日期 | 2026年9月4日 |
-| 自动同步时间 | 2026年9月4日 00:00 |
-| 当天文章 | https://free.yunxiang.lol/posts/nodes/2026-09-04 |
+| 更新日期 | 2026年9月5日 |
+| 自动同步时间 | 2026年9月5日 00:00 |
+| 当天文章 | https://free.yunxiang.lol/posts/nodes/2026-09-05 |
 | 订阅格式 | XBoard 通用订阅 |
 | 适配客户端 | Clash Verge Rev / Mihomo / v2rayN / v2rayNG / Shadowrocket / OpenClash |
 | 主要地区 | 香港、日本、新加坡、美国 |
@@ -19,14 +19,14 @@
 ### 当天文章链接
 
 ```text
-https://free.yunxiang.lol/posts/nodes/2026-09-04
+https://free.yunxiang.lol/posts/nodes/2026-09-05
 ```
 
 请打开上面的博客文章，在正文“免费订阅地址”区域获取当天可用入口。Mihomo 兼容性说明放在站内专题，仓库保持轻量入口。
 
 ## 快速入口
 
-- 今日免费节点文章：https://free.yunxiang.lol/posts/nodes/2026-09-04
+- 今日免费节点文章：https://free.yunxiang.lol/posts/nodes/2026-09-05
 - 客户端专题页：https://free.yunxiang.lol/topics
 - 常见问题文档：https://free.yunxiang.lol/docs
 - 订阅导入教程：https://free.yunxiang.lol/docs/start/import-subscription
@@ -38,12 +38,12 @@ https://free.yunxiang.lol/posts/nodes/2026-09-04
 
 - 面向场景：Mihomo / Clash Meta 内核客户端订阅入口
 - 推荐读者：关心代理组、规则模式和 YAML 兼容性的桌面客户端用户
-- 内容重点：Mihomo 订阅导入、Clash Meta 兼容、代理组刷新和格式检测；2026年9月4日更新；香港、日本、新加坡、美国 等地区；100 Mbps 公共限速
+- 内容重点：Mihomo 订阅导入、Clash Meta 兼容、代理组刷新和格式检测；2026年9月5日更新；香港、日本、新加坡、美国 等地区；100 Mbps 公共限速
 - 固定入口：https://free.yunxiang.lol/
 
 ## 今日导入路径
 
-1. 打开今日文章，确认日期是 2026年9月4日，再获取正文里的免费订阅入口。
+1. 打开今日文章，确认日期是 2026年9月5日，再获取正文里的免费订阅入口。
 2. 优先按 Mihomo 或 Clash Meta 路径导入，格式异常时使用站内检测工具确认返回内容；如果客户端没有弹出，就复制文章里的地址后手动新增订阅。
 3. 导入后先更新订阅并测速，优先选择延迟稳定的 香港、日本、新加坡、美国 节点。
 4. 如果列表为空或格式不识别，回到站内导入教程、格式检测工具和排错页定位问题。
