@@ -8,7 +8,7 @@
 | --- | --- |
 | 更新日期 | 2026年9月11日 |
 | 自动同步时间 | 2026年9月11日 00:00 |
-| 当天文章 | https://free.yunxiang.lol/posts/nodes/2026-09-11 |
+| 当天文章 | https://free.tntyx.com/posts/nodes/2026-09-11 |
 | 订阅格式 | XBoard 通用订阅 |
 | 适配客户端 | Clash Verge Rev / Mihomo / v2rayN / v2rayNG / Shadowrocket / OpenClash |
 | 主要地区 | 香港、日本、新加坡、美国 |
@@ -19,26 +19,26 @@
 ### 当天文章链接
 
 ```text
-https://free.yunxiang.lol/posts/nodes/2026-09-11
+https://free.tntyx.com/posts/nodes/2026-09-11
 ```
 
 请打开上面的博客文章，在正文“免费订阅地址”区域获取当天可用入口。Mihomo 兼容性说明放在站内专题，仓库保持轻量入口。
 
 ## 快速入口
 
-- 今日免费节点文章：https://free.yunxiang.lol/posts/nodes/2026-09-11
-- 客户端专题页：https://free.yunxiang.lol/topics
-- 常见问题文档：https://free.yunxiang.lol/docs
-- 订阅导入教程：https://free.yunxiang.lol/docs/start/import-subscription
-- 订阅格式检测工具：https://free.yunxiang.lol/tools/subscription-format-checker
-- RSS 更新源：https://free.yunxiang.lol/rss.xml
+- 今日免费节点文章：https://free.tntyx.com/posts/nodes/2026-09-11
+- 客户端专题页：https://free.tntyx.com/topics
+- 常见问题文档：https://free.tntyx.com/docs
+- 订阅导入教程：https://free.tntyx.com/docs/start/import-subscription
+- 订阅格式检测工具：https://free.tntyx.com/tools/subscription-format-checker
+- RSS 更新源：https://free.tntyx.com/rss.xml
 
 ## 仓库定位
 
 - 面向场景：Mihomo / Clash Meta 内核客户端订阅入口
 - 推荐读者：关心代理组、规则模式和 YAML 兼容性的桌面客户端用户
 - 内容重点：Mihomo 订阅导入、Clash Meta 兼容、代理组刷新和格式检测；2026年9月11日更新；香港、日本、新加坡、美国 等地区；100 Mbps 公共限速
-- 固定入口：https://free.yunxiang.lol/
+- 固定入口：https://free.tntyx.com/
 
 ## 今日导入路径
 
@@ -56,14 +56,14 @@ https://free.yunxiang.lol/posts/nodes/2026-09-11
 
 ## 工具与排查
 
-- 订阅格式检测工具：https://free.yunxiang.lol/tools/subscription-format-checker
-- Clash 导入订阅失败：https://free.yunxiang.lol/docs/troubleshooting/clash-verge-import-failed
-- v2rayN 更新订阅失败：https://free.yunxiang.lol/docs/troubleshooting/v2rayn-update-subscription-failed
-- Mihomo 格式不支持：https://free.yunxiang.lol/docs/troubleshooting/mihomo-format-unsupported
-- 订阅格式说明：https://free.yunxiang.lol/docs/concepts/subscription-formats
-- VMess / VLESS / Trojan / SS 区别：https://free.yunxiang.lol/docs/concepts/vmess-vless-trojan-ss
-- 免费节点安全吗：https://free.yunxiang.lol/docs/safety/are-free-nodes-safe
-- 资源导航与合作引用：https://free.yunxiang.lol/docs/resources
+- 订阅格式检测工具：https://free.tntyx.com/tools/subscription-format-checker
+- Clash 导入订阅失败：https://free.tntyx.com/docs/troubleshooting/clash-verge-import-failed
+- v2rayN 更新订阅失败：https://free.tntyx.com/docs/troubleshooting/v2rayn-update-subscription-failed
+- Mihomo 格式不支持：https://free.tntyx.com/docs/troubleshooting/mihomo-format-unsupported
+- 订阅格式说明：https://free.tntyx.com/docs/concepts/subscription-formats
+- VMess / VLESS / Trojan / SS 区别：https://free.tntyx.com/docs/concepts/vmess-vless-trojan-ss
+- 免费节点安全吗：https://free.tntyx.com/docs/safety/are-free-nodes-safe
+- 资源导航与合作引用：https://free.tntyx.com/docs/resources
 
 ## 使用说明
 
@@ -91,10 +91,10 @@ undefined
 
 ## 相关链接
 
-- 官方博客：https://free.yunxiang.lol/
-- 每日节点归档：https://free.yunxiang.lol/nodes
-- 客户端专题：https://free.yunxiang.lol/topics
-- 订阅格式检测：https://free.yunxiang.lol/tools/subscription-format-checker
-- 资源导航与合作引用：https://free.yunxiang.lol/docs/resources
-- 使用文档：https://free.yunxiang.lol/docs
-- RSS：https://free.yunxiang.lol/rss.xml
+- 官方博客：https://free.tntyx.com/
+- 每日节点归档：https://free.tntyx.com/nodes
+- 客户端专题：https://free.tntyx.com/topics
+- 订阅格式检测：https://free.tntyx.com/tools/subscription-format-checker
+- 资源导航与合作引用：https://free.tntyx.com/docs/resources
+- 使用文档：https://free.tntyx.com/docs
+- RSS：https://free.tntyx.com/rss.xml
